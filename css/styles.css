@@ -190,6 +190,7 @@ p{
     color: #f79913 !important;
 }
 .hero{
+    position:relative;
     height: 650px;
     display: flex;
     align-items: center;
